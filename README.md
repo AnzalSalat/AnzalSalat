@@ -4,6 +4,14 @@
 📫 Here's my [LindkedIn](https://www.linkedin.com/in/anzalsalat/)!</br>
 
 <!---
+```
+string firstName = "Anzal"
+string surname = "Salat"
+int uniYear = 2
+```
+--->
+
+<!---
 AnzalSalat/AnzalSalat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
