@@ -7,6 +7,10 @@
 AnzalSalat/AnzalSalat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Goals:
+✨ Gain experience within the field</br>
+✨ Complete a personal project</br>
+
 #### Current University Modules:
  - Programming in C++
  - Data Structures & Algorithms
