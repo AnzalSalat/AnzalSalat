@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnzalSalat
-- 👀 I’m interested in getting into Data Analysis or Cyber Security. I am intrigued by the cloud computing world so would love to explore it.
-- 🌱 I’m currently a BSc Computer Science student. 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in getting into Data Analysis or Cyber Security. I am also intrigued by the cloud computing world so would love to explore it.
+- 🌱 I’m currently a BSc Computer Science student, looking to  grow through personal projects.
 - 📫 How to reach me LindkedIn : https://www.linkedin.com/in/anzalsalat/
 
 <!---
